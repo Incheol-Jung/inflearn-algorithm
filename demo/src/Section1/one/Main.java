@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Main {
 
-	public static int solution(String str, char c) {
+	private static int solution(String str, char c) {
 		int count = 0;
 		char lowerCase = Character.toLowerCase(c);
 
