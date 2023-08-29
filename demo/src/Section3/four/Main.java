@@ -31,6 +31,7 @@ public class Main {
 			if (temp == sum) {
 				result++;
 			}
+			
 			while (temp >= sum) {
 				temp -= arr[removedIndex++];
 				if (temp == sum) {
