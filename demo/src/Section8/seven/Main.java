@@ -1,4 +1,4 @@
-package Section8.six;
+package Section8.seven;
 
 import java.util.Scanner;
 
